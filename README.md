@@ -45,7 +45,7 @@ I this challenge I needed to
 
    369.711 votes were cast  in this election. 
 
-  ![Total_votes](.\Total_votes.png)
+  ![Total_votes](./Total_votes.png)
 
   To find this number I 
 
